@@ -3,9 +3,7 @@
 
 The Big Five Personality Traits, also known as the Five Factor Model (FFM) and the OCEAN Model, is a taxonomy, or grouping, for personality traits. 
 When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person. 
-For example, someone described as conscientious is more likely to be described as "always ready" than "messy." 
-This theory is therefore based on the association between words, but not on neuropsychological experiments. 
-This theory uses common language descriptors and therefore suggests five major dimensions commonly used to describe the human personality and psyche.
+For example, someone described as conscientious is more likely to be described as "always ready" than "messy." This hyphothesis is therefore based on the association between words, but not on neuropsychological experiments. This hyphothesis uses common language descriptors and therefore suggests five major dimensions commonly used to describe the human personality and psyche.
 
 This dataset contains 1,015,342 questionnaire responses collected online by Open Psychometrics.
 
