@@ -13,4 +13,5 @@ The database was obtained from Kaggle:
 
 https://www.kaggle.com/tunguz/big-five-personality-test
 
-The purpose of this notebook is to use K-Means Clustering in Python with scikit-learn to sort test answers into groups. K-Means is an unsupervised learning algorithm that will group responses by similarity. With the result, we will make a page for inclusion and classification of new data.
+The purpose of this notebook is to use K-Means Clustering in Python with scikit-learn to sort test answers into groups. K-Means is an unsupervised learning algorithm that will group responses by similarity. 
+With the result, we will make a page for inclusion and classification of new data.
